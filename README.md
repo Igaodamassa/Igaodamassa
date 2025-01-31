@@ -1,5 +1,4 @@
-## Bem-vindo(a) ao perfil do Igaodamassa
-😁
+## Bem-vindo(a) ao perfil do Igaodamassa😁
 
  <div>
    <a href="https://github.com/devemdoIgaodamassabro">
